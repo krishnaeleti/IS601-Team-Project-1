@@ -20,3 +20,8 @@
     * [Example](https://docs.github.com/en/github/using-git/adding-a-remote
 )
 
+11. Remote Remove – it removes a remote, any and all remote-tracked branches and configuration settings are updated to reflect the changes.
+
+    * [Example](https://docs.github.com/en/github/using-git/removing-a-remote)
+ 
+
