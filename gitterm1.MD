@@ -30,5 +30,9 @@
 
 13. Status - Git status is showing the status of the workspace, the files which are added and committed or not.
 
- * [Example]( https://git-scm.com/docs/git-status)
+    * [Example]( https://git-scm.com/docs/git-status)
+ 
+14. Master Branch – the main branch of a repository. Likened to a trunk of the tree.
 
+    * [Example](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=The%20default%20branch%20name%20in,branch%20pointer%20moves%20forward%20automatically.&text=The%20%E2%80%9Cmaster%E2%80%9D%20branch%20in%20Git%20is%20not%20a%20special%20branch.
+)
