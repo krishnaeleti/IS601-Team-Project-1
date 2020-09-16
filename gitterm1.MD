@@ -17,6 +17,9 @@
     * [Example](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches
 )
 5. Commit - Git commit is the command to submit the changes which is added to the git workspace.
+
+    * [Example](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project
+)
 6. Merge – A git merge is a command that lets a user take lines of code they developed in a git branch and assimilate them into a single branch. It will combine many commits into one.
 7. Checkout - By using git checkout, we can switch to a branch we named.
 8. Push – a git push updates the remote repository along with any commit that have been made locally to a branch.
