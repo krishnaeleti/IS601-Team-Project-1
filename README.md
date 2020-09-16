@@ -1,5 +1,5 @@
 # IS601-Team-Project-1
-Collaborators: Jiaxing Zhang and Krishna Eleti
+## Jiaxing Zhang and Krishna Eleti
 
 ## Table of Contents
 
