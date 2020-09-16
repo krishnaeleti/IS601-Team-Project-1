@@ -1,0 +1,45 @@
+| Hash       | Collaborator  | Time                               | Description                                                 | Files Changed       | Insertion               | Deletion              |
+|------------|---------------|------------------------------------|-------------------------------------------------------------|---------------------|-------------------------|-----------------------|
+| 4052d23    | Krishna Eleti | "Wed, 16 Sep 2020 14:32:50 \-0400" | Task: Added Changelog description in readme                 | "	 2 files changed" | 3 insertions\(\+\)      | " 2 deletions\(\-\)	" |
+| cd9758c    | Krishna Eleti | "Wed, 16 Sep 2020 14:29:32 \-0400" | Fix: Updated Github and Git definition 2                    | "	 1 file changed"  | 7 insertions\(\+\)      | " 6 deletions\(\-\)	" |
+| 15e67d3    | Krishna Eleti | "Wed, 16 Sep 2020 10:18:32 \-0400" | Fix: Updated Github and Git definition                      | "	 2 files changed" | 5 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| 669a3c4    | Krishna Eleti | "Wed, 16 Sep 2020 10:12:40 \-0400" | Feature: Added the sources and resoruces with image         | "	 3 files changed" | 20 insertions\(\+\)     | " 1 deletion\(\-\)	"  |
+| 3a88aad    | Krishna Eleti | "Wed, 16 Sep 2020 09:57:59 \-0400" | Fix: Fixed TOC                                              | "	 1 file changed"  | 1 insertion\(\+\)       | " 1 deletion\(\-\)	"  |
+| f1c9390    | Krishna Eleti | "Wed, 16 Sep 2020 09:57:14 \-0400" | Fix: Added TOC                                              | "	 1 file changed"  | 3 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| a013996    | Krishna Eleti | "Wed, 16 Sep 2020 09:55:14 \-0400" | Fix: Updated Definition of Gitflow and formatted multimedia | "	 1 file changed"  | 5 insertions\(\+\)      | " 3 deletions\(\-\)	" |
+| 58bfa04    | Krishna Eleti | "Wed, 16 Sep 2020 09:50:28 \-0400" | Task: Changed font sizes                                    | "	 1 file changed"  | 5 insertions\(\+\)      | " 6 deletions\(\-\)	" |
+| cd5935b    | Krishna Eleti | "Wed, 16 Sep 2020 09:46:45 \-0400" | Feature: Added Git Definition into readme                   | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 5d272c2    | Krishna Eleti | "Wed, 16 Sep 2020 09:42:39 \-0400" | Task: Formatted Readme\.md                                  | "	 1 file changed"  | 1 insertion\(\+\)       | " 2 deletions\(\-\)	" |
+| 946847d    | Krishna Eleti | "Wed, 16 Sep 2020 09:40:08 \-0400" | Fix: Updated/Added Example of Checkout                      | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 7\.10E\+09 | Krishna Eleti | "Wed, 16 Sep 2020 09:38:43 \-0400" | Fix: Updated/Added Example of Merge                         | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| b28b9b0    | Krishna Eleti | "Wed, 16 Sep 2020 09:37:28 \-0400" | Fix: Updated/Added Example of Commit                        | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 68a06f5    | Krishna Eleti | "Wed, 16 Sep 2020 09:35:43 \-0400" | Fix: Updated/Added Example of Branch                        | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 7845031    | Krishna Eleti | "Wed, 16 Sep 2020 09:33:17 \-0400" | Fix: Updated/Added Example of Fork                          | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| a697a79    | Krishna Eleti | "Wed, 16 Sep 2020 09:29:24 \-0400" | Fix: Updated/Added Example of Clone                         | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| c24b295    | Krishna Eleti | "Wed, 16 Sep 2020 09:26:59 \-0400" | Fix: Updated/Added Example of Repository                    | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| bf58f2f    | Krishna Eleti | "Wed, 16 Sep 2020 09:23:47 \-0400" | Feature: Added Definition of Master Branch                  | "	 1 file changed"  | 5 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| 0ea53c2    | Krishna Eleti | "Wed, 16 Sep 2020 09:20:35 \-0400" | Feature: Added Definition of Status                         | "	 1 file changed"  | " 4 insertions\(\+\)	"  |                       |
+| bb863bf    | Krishna Eleti | "Wed, 16 Sep 2020 09:16:27 \-0400" | Feature: Added Definition of Remote Show                    | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 97fdfab    | Krishna Eleti | "Wed, 16 Sep 2020 09:14:50 \-0400" | Feature: Added Definition of Remote Remove                  | "	 1 file changed"  | " 5 insertions\(\+\)	"  |                       |
+| e2b04c1    | Krishna Eleti | "Wed, 16 Sep 2020 09:12:41 \-0400" | Feature: Added Definition of Remote Add                     | "	 1 file changed"  | 7 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| 242a7b7    | Krishna Eleti | "Wed, 16 Sep 2020 09:08:07 \-0400" | Feature: Added Definition of Pull                           | "	 1 file changed"  | 5 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| e3f6af8    | Krishna Eleti | "Wed, 16 Sep 2020 09:05:06 \-0400" | Feature: Added Definition of Push                           | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 0d37b24    | tabzhangjx    | "Wed, 16 Sep 2020 20:55:04 \+0800" | FEATURE: modify style in README                             | "	 1 file changed"  | 2 insertions\(\+\)      | " 2 deletions\(\-\)	" |
+| d2c4ce5    | tabzhangjx    | "Wed, 16 Sep 2020 20:53:19 \+0800" | FEATURE: ADD links in README                                | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| 329486c    | tabzhangjx    | "Wed, 16 Sep 2020 20:49:27 \+0800" | FEATURE: ADD definition of gitflow                          | "	 1 file changed"  | " 7 insertions\(\+\)	"  |                       |
+| 9c72144    | tabzhangjx    | "Wed, 16 Sep 2020 20:44:45 \+0800" | FEATURE: ADD source link of gitflow                         | "	 1 file changed"  | " 3 insertions\(\+\)	"  |                       |
+| ef57b64    | tabzhangjx    | "Wed, 16 Sep 2020 20:42:54 \+0800" | FEATURE: ADD definition of gitflow                          | "	 1 file changed"  | 5 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| 36c3950    | tabzhangjx    | "Wed, 16 Sep 2020 20:41:02 \+0800" | TASK: Add gitflow\.MD                                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 81e7491    | tabzhangjx    | "Wed, 16 Sep 2020 20:37:22 \+0800" | FEATURE: ADD definition of git term 7                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| e5003a6    | tabzhangjx    | "Wed, 16 Sep 2020 20:35:37 \+0800" | FEATURE: ADD definition of git term 6                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 2b4a4e4    | tabzhangjx    | "Wed, 16 Sep 2020 20:34:25 \+0800" | FEATURE: ADD definition of git term 5                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 043c744    | tabzhangjx    | "Wed, 16 Sep 2020 20:33:03 \+0800" | FEATURE: ADD definition of git term 4                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 176e9ab    | tabzhangjx    | "Wed, 16 Sep 2020 20:31:40 \+0800" | FEATURE: ADD definition of git term 3                       | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 43aa37b    | tabzhangjx    | "Wed, 16 Sep 2020 20:27:01 \+0800" | FEATURE: ADD definition of git term 2                       | "	 1 file changed"  | 2 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| e30f3f9    | tabzhangjx    | "Wed, 16 Sep 2020 20:23:36 \+0800" | FEATURE: ADD definition of git term 1                       | "	 1 file changed"  | " 2 insertions\(\+\)	"  |                       |
+| c55cfff    | tabzhangjx    | "Wed, 16 Sep 2020 20:23:14 \+0800" | FEATURE: ADD git term 1                                     | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| f6847e9    | tabzhangjx    | "Wed, 16 Sep 2020 20:18:32 \+0800" | FEATURE: ADD git definition 2                               | "	 1 file changed"  | 3 insertions\(\+\)      | " 1 deletion\(\-\)	"  |
+| 56b4ab6    | tabzhangjx    | "Wed, 16 Sep 2020 20:17:55 \+0800" | FEATURE: ADD git definition                                 | "	 1 file changed"  | " 1 insertion\(\+\)	"   |                       |
+| 787483f    | tabzhangjx    | "Wed, 16 Sep 2020 20:15:28 \+0800" | TASK: modify readme                                         | "	 1 file changed"  | " 2 insertions\(\+\)	"  |                       |
+| cd55ff0    | tabzhangjx    | "Wed, 16 Sep 2020 20:11:26 \+0800" | TASK: add \.gitignore                                       | "	 1 file changed"  | " 2 insertions\(\+\)	"  |                       |
+| 64c24b7    | krishnaeleti  | "Mon, 14 Sep 2020 14:31:08 \-0400" | Initial commit                                              | "	 2 files changed" | " 23 insertions\(\+\)	" |                       |
