@@ -14,3 +14,9 @@
 9. Pull - There are two kinds of pull: we can pull the remote branch/repository to our local git and update the changes made by others. We can also raise pull requests in a forked repository.
    
     * [Example](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+    
+10. Remote Add – it adds a new remote for the repository.
+
+    * [Example](https://docs.github.com/en/github/using-git/adding-a-remote
+)
+
