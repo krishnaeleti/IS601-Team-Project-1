@@ -6,3 +6,4 @@
 4. Branch – It is a branch that is based on the original branch that allows a user to develop something without affecting the master branch.
 5. Commit - Git commit is the command to submit the changes which is added to the git workspace.
 6. Merge – A git merge is a command that lets a user take lines of code they developed in a git branch and assimilate them into a single branch. It will combine many commits into one.
+7. Checkout - By using git checkout, we can switch to a branch we named.
