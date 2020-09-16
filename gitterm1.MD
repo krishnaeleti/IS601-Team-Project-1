@@ -25,6 +25,9 @@
     * [Example](https://www.atlassian.com/git/tutorials/using-branches/git-merge
 )
 7. Checkout - By using git checkout, we can switch to a branch we named.
+
+    * [Example](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
+    
 8. Push – a git push updates the remote repository along with any commit that have been made locally to a branch.
 
     * [Example](https://www.atlassian.com/git/tutorials/syncing/git-push)
