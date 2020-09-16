@@ -28,3 +28,7 @@
 
     * [Example](https://git-scm.com/docs/git-remote)
 
+13. Status - Git status is showing the status of the workspace, the files which are added and committed or not.
+
+ * [Example]( https://git-scm.com/docs/git-status)
+
