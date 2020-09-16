@@ -24,4 +24,7 @@
 
     * [Example](https://docs.github.com/en/github/using-git/removing-a-remote)
  
+12. Remote  Show – gives information about the remote.
+
+    * [Example](https://git-scm.com/docs/git-remote)
 
