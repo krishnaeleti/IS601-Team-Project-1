@@ -8,5 +8,9 @@
 6. Merge – A git merge is a command that lets a user take lines of code they developed in a git branch and assimilate them into a single branch. It will combine many commits into one.
 7. Checkout - By using git checkout, we can switch to a branch we named.
 8. Push – a git push updates the remote repository along with any commit that have been made locally to a branch.
+
+    * [Example](https://www.atlassian.com/git/tutorials/syncing/git-push)
+
+9. Pull - There are two kinds of pull: we can pull the remote branch/repository to our local git and update the changes made by others. We can also raise pull requests in a forked repository.
    
-   * [Example](https://www.atlassian.com/git/tutorials/syncing/git-push)
+    * [Example](https://www.atlassian.com/git/tutorials/syncing/git-pull)
